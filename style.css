@@ -48,16 +48,16 @@ nav {
 .logo {
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 12px;
   font-weight: 800;
-  font-size: 15px;
+  font-size: 18px;
   letter-spacing: 1px;
   color: #fff;
   text-transform: uppercase;
 }
 
 .logo img {
-  height: 28px;
+  height: 36px;
   width: auto;
 }
 
