@@ -39,7 +39,7 @@ nav {
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
   border-bottom: 1px solid rgba(255, 255, 255, 0.05);
-  padding: 10px 24px;
+  padding: 12px 24px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -51,7 +51,7 @@ nav {
 }
 
 .logo img {
-  height: 70px;
+  height: 100px;
   width: auto;
 }
 
